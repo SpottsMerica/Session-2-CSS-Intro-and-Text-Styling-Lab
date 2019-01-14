@@ -1,0 +1,24 @@
+h1 {color:blue;
+font-size: 40px;}
+h2 {font-size: 35px;}
+.square-list li {
+    font-size: 30px;
+    padding-left: 10px;
+}
+p {font-size: 20px;
+    text-align: center;
+}
+.square-list {
+    list-style-type: square;
+    border: 2px solid rgb(15, 18, 211);
+
+    margin:10px 10px 5px 8px;
+}
+#list {
+    background-color: burlywood;
+}
+
+.container {
+    padding: 20px;
+    border: 1px solid blue;
+}
